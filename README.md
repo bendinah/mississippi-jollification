@@ -1,5 +1,5 @@
 # mississippi-jollification
-Some data fun focused on the Mississippi River.
+Some data diagramming fun focused on the Mississippi River.
 
 ```mermaid
 flowchart BT
